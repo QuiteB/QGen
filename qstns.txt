@@ -1,0 +1,18 @@
+.
+What is your name?
+bsa
+elle
+yobe
+kodi
+.
+Who are You?
+sman
+bman
+yoman
+heyman
+.
+How am I?
+you cant  tell
+oh yeah
+this is usefull
+.

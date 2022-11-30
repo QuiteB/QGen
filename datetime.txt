@@ -1,0 +1,15 @@
+abbreviation: IST
+client_ip: 2409:4073:4d00:a97e:a4f8:5f7a:188e:67bc
+datetime: 2022-09-22T21:56:34.364922+05:30
+day_of_week: 4
+day_of_year: 265
+dst: false
+dst_from: 
+dst_offset: 0
+dst_until: 
+raw_offset: 19800
+timezone: Asia/Kolkata
+unixtime: 1663863994
+utc_datetime: 2022-09-22T16:26:34.364922+00:00
+utc_offset: +05:30
+week_number: 38
